@@ -20,7 +20,7 @@ Ngoài ra, tôi cũng quan tâm đến **Java Backend, Web Development**.
 
 ## 📫 Liên hệ
 - 🌐 [Facebook](https://www.facebook.com/tunn.2701)  
-- 🐙 [GitHub](https://github.com/ltanh2701-glitch)  
+- 🐙 [GitHub](https://github.com/ltanh-glitchpro)  
 - 💬 Zalo: 0334056255  
 - 📧 Email: anh_dth235607@student.agu.edu.vn
 
